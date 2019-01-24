@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+C:\Users\lenovo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.GameOver.resources
